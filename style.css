@@ -1,0 +1,17 @@
+body {
+  width: 300px;
+  height: 300px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: rgba(248, 168, 18, 0.589);
+  display: flex;
+  justify-content: center;
+}
+p {
+  display: inline-flex;
+  margin: auto 10px;
+  font-size: 35px;
+  color: #c00000c7;
+  border-radius: 6px;
+  border: 1px solid rgb(233, 144, 10);
+  padding: 10px;
+}
